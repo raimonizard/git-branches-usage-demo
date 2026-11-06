@@ -1,3 +1,3 @@
 fun main(){
-    println("Hola Adrià, Sergi, Mateo, ...")
+    println("Hola Adrià, Sergi, Mateo, Rai...")
 }
